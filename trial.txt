@@ -5,3 +5,10 @@ Hej2
 Hej 3
 
 Hej 4
+
+Farvel 1
+
+Farvel 2
+
+Farvel 3
+
